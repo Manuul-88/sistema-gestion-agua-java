@@ -1,0 +1,7 @@
+*.class
+bin/
+*.exe
+*.jar
+Documentos/
+*.docx
+*.pdf
