@@ -3,6 +3,8 @@ package model;
 public class Pago {
     private int idUsuario;
     private String mes;
+    private int anio;
+    private String fechaPago;
     private double monto;
 
     public Pago(int idUsuario, String mes, double monto) {
